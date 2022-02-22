@@ -1,0 +1,26 @@
+.cover__title {
+    margin: 0 auto 0;
+    padding-top: 19.5%;
+    max-width: 560px;
+    color: #fff;
+    text-align: center;
+    font-size: 72px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    line-height: 76px;
+    position: relative;
+    z-index: 1;
+}
+
+.cover__title:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 767px) {
+    .cover__title {
+        font-size: 32px;
+        line-height: 35px;
+        width: 288px;
+        padding-top: 33px;
+    }    
+}
