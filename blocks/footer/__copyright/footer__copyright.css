@@ -1,7 +1,4 @@
 .footer__copyright {
-    position: absolute;
-    bottom: 0;
-    right: 0;
     font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-weight: normal;
@@ -14,6 +11,5 @@
     .footer__copyright {
         line-height: 14px;
         margin-top: 48px;
-        position: static;
     }
 }
