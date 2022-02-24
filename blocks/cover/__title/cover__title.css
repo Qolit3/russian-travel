@@ -12,10 +12,6 @@
     z-index: 1;
 }
 
-.cover__title:hover {
-    opacity: 0.8;
-}
-
 @media screen and (max-width: 767px) {
     .cover__title {
         font-size: 32px;
